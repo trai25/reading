@@ -1,15 +1,6 @@
 things
 ======
 
-长期项目待办列表
-
-### 工作
-
-- App 项目 UI 设计。
-
-### 学习
-
-- 学习一种编程语言
-- 学习英语
+[Wiki](https://github.com/trai25/things/wiki) of my things.
 
 
