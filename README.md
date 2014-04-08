@@ -1,6 +1,6 @@
-things
+reading
 ======
 
-[Wiki](https://github.com/trai25/things/wiki) of my things.
+请浏览 [Wiki](https://github.com/trai25/things/wiki). 
 
 
